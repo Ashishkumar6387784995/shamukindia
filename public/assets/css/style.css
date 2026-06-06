@@ -1,0 +1,11 @@
+.lead-status-td span {
+    width: 93px;
+    white-space: normal;
+    word-wrap: break-word;
+    text-align: center;
+    line-height: 15px;
+}
+
+.fs-22{
+    font-size: 22px;
+}
